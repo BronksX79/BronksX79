@@ -1,24 +1,24 @@
 # Hi, I'm Martin 👋
 
-Welcome to Bronks Labs.
+Welcome to **Bronks Labs**.
 
-I'm a self-directed learner exploring Artificial Intelligence, Local LLMs, Computer Hardware and Networking through practical hands-on projects.
+I'm a self-directed learner exploring Artificial Intelligence, local Large Language Models (LLMs), computer hardware, networking, and self-hosted technologies through practical, hands-on projects.
 
-## Current Focus
+## 🚀 Current Focus
 
 - 🤖 Local AI (Ollama)
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 📚 AI Knowledge Systems
-- 💻 Hardware Upgrades
+- 💻 Computer Hardware & AI Workstations
 - 🌐 Home Networking
-- 📖 AI-Assisted Writing
+- 📖 AI-Assisted Writing Workflows
 
-## Current Projects
+## 📂 Current Projects
 
-- AI Homelab
-- HP EliteDesk AI Workstation
-- Home Network Optimisation
-- AI Writing Workflow
-- Fantasy Novel
+- 🖥️ AI Homelab
+- 💻 HP EliteDesk AI Workstation
+- 🌐 Home Network Optimisation
+- 📖 AI-Assisted Writing Workflow
+- 📚 Fantasy Novel
 
-> I learn by building, documenting and improving.
+> *I learn by building, experimenting, documenting, and continuously improving.*
