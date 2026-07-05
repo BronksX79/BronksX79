@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Martin 👋
 
-<!--
-**BronksX79/BronksX79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Bronks Labs.
 
-Here are some ideas to get you started:
+I'm a self-directed learner exploring Artificial Intelligence, Local LLMs, Computer Hardware and Networking through practical hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- 🤖 Local AI (Ollama)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 📚 AI Knowledge Systems
+- 💻 Hardware Upgrades
+- 🌐 Home Networking
+- 📖 AI-Assisted Writing
+
+## Current Projects
+
+- AI Homelab
+- HP EliteDesk AI Workstation
+- Home Network Optimisation
+- AI Writing Workflow
+- Fantasy Novel
+
+> I learn by building, documenting and improving.
