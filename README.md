@@ -12,6 +12,7 @@ I'm a self-directed learner exploring Artificial Intelligence, local Large Langu
 - 💻 Computer Hardware & AI Workstations
 - 🌐 Home Networking
 - 📖 AI-Assisted Writing Workflows
+-  🧪 AI-Directed Systems Design (pushing models on multi-domain technical concepts)
 
 ## 📂 Current Projects
 
@@ -20,5 +21,6 @@ I'm a self-directed learner exploring Artificial Intelligence, local Large Langu
 - 🌐 Home Network Optimisation
 - 📖 AI-Assisted Writing Workflow
 - 📚 Fantasy Novel
+- 🌍 Off-Grid Compute Bunker — AI-collaboration experiment pushing a model through a full engineering concept (power, thermal, financial) to see where it holds up and where it hallucinates → [repo](https://github.com/BronksX79/sub-surface-compute-bunker)
 
 > *I learn by building, experimenting, documenting, and continuously improving.*
