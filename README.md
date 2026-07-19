@@ -35,9 +35,13 @@ I'm a self-directed learner exploring Artificial Intelligence, local Large Langu
 - *Building a long-form fantasy world using AI-supported workflows.*
 
 🌍 Project Sub-Surface Compute Bunker
-- *Researching a future off-grid AI compute environment while documenting how AI proposals are validated against real-world engineering constraints.*
+-  *Researching a future off-grid AI compute environment while documenting how AI proposals are validated against real-world engineering constraints.*
      [repo](https://github.com/BronksX79/sub-surface-compute-bunker)
 
+🏠 Legacy Home Server 
+- *Transforming a legacy Fujitsu AH530 laptop into an off-grid, headless home server. Utilising local and cloud cased AI models in research, planning and executing the deployment.*
+     [repo](https://github.com/BronksX79/headless-home-server)
+     
   ---
 
 ## Philosophy
